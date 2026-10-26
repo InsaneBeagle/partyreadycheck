@@ -41,8 +41,8 @@ public class PartyReadyCheckPlugin extends Plugin {
 	final int TOA_HEADER_WIDGET_ID = 50659332;
 	final int TOB_PARTY_WIDGET_ID = 1835020;
 	final int TOA_PARTY_WIDGET_ID = 50659333;
-	final int TFA_HEADER_WIDGET_ID = 63897604; // InterfaceID.TfaLobby.NAMES_HEADER (0x03cf_0004)
-	final int TFA_PARTY_WIDGET_ID = 63897605; // InterfaceID.TfaLobby.NAMES (0x03cf_0005)
+	final int TFA_HEADER_WIDGET_ID = 63897604;
+	final int TFA_PARTY_WIDGET_ID = 63897605;
 
 	Widget tobRaidingPartyHeader;
 	Widget toaRaidingPartyHeader;
